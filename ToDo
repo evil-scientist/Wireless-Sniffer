@@ -36,16 +36,17 @@ Frame distribution
 TO DO:
 
 Me: 
-- Torrents
+- Torrents  -> DONE
 - whatsapp calling
 - no activity
 
 LIBRARY (5 places)
-X
+X           --> REQUIRES PI
 
 Sury:
-- netflix
+- netflix -> DONE
 - webbrowsing
 
 FLOORS of EWI((0, 1, 2, 5, 8, 11, 14, 17, 21))
-Dorm entrance
+Dorm entrance  --> REQUIRES PI
+
