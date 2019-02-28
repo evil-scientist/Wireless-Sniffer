@@ -1,0 +1,51 @@
+traffic direction
+- ups, downs, ap to ap and ad-hoc
+vs mobility, location and distance
+
+distance: right below (below and until lack of signal from an AP, EWI and library)
+
+location: 5 places library, floors of EWI(0, 1, 2, 5, 8, 11, 14, 17, 21), building(EWI, X, Dorm entrances(both))
+
+mobility: still, walking, cycling
+
+time: 
+
+
+QoS
+-data rate vs signal strength
+-distribution of QoS flags
+application: torrent, netflix, whatsapp calling, web browsing, no activity (10 min each)
+traffic injections.
+
+
+
+
+
+
+Frame distribution
+- All types
+- All subtypes
+(video streaming versus web browsing versus no activity)
+
+
+
+(remmeber -z conv,wlan   and remember to set the captures to the most used channel)
+-------------------------------------
+
+
+TO DO:
+
+Me: 
+- Torrents
+- whatsapp calling
+- no activity
+
+LIBRARY (5 places)
+X
+
+Sury:
+- netflix
+- webbrowsing
+
+FLOORS of EWI((0, 1, 2, 5, 8, 11, 14, 17, 21))
+Dorm entrance
