@@ -1,8 +1,4 @@
-*.pcap
-*.csv
-*.cap
-*.pdf
-*.jpg
-*.png
 test/
 .ipynb_checkpoints/
+Data/
+material/
