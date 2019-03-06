@@ -2,3 +2,4 @@ test/
 .ipynb_checkpoints/
 Data/
 material/
+*.csv
